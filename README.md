@@ -18,7 +18,7 @@ I don't want to ever stop learning and growing, and software engineering as a di
 
 ## Work Experience
 
-**Academic Camp Limited** (2017 to 2021)
+**Academic Camp Limited** (2018 to 2021)
 _Computer Science Teacher_
 
 - Designed and ran 'Get Ready for Computer Science' course for four consecutive years
@@ -26,7 +26,7 @@ _Computer Science Teacher_
 - Including both total beginners, and programming-language fluent students
 - Preparing them to continue their education in Computer Science
 
-**Academic Tutor Online** (2017 to 2022)
+**Academic Tutor Online** (2018 to 2022)
 _Private Tutor (Specialising in Life Sciences)_
 
 - Taught multiple students from KS2, through GCSE, A-Levels, and International Baccalaureate
